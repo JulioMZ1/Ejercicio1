@@ -1,0 +1,17 @@
+#banner {
+    width: 720px;
+}
+
+button {
+    width: 170px;
+    height: 40px;
+}
+
+button:hover {
+    background-color: steelblue;
+}
+
+.categoria {
+    width: 170px;
+    border: 1px solid;
+}
